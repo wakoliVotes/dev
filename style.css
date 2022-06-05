@@ -43,6 +43,13 @@
     text-decoration: none;
     color: rgb(86, 150, 223);
 }
+/* skills */
+#skills
+{
+    background-color: rgb(187, 208, 205);
+    border-radius: 35px;
+    margin: 10px;
+}
 
 /* services section css */
 .servicesText {
