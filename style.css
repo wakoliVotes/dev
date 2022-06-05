@@ -1,6 +1,7 @@
 .body {
     margin: 0;
     background-color: rgb(204, 231, 209);
+    font-family: "Montserrat", sans-serif;
 }
 /* hero background image */
 .bgimage {
@@ -29,6 +30,18 @@
 .imageAboutPage {
     width: 100%;
     border-radius: 50%;
+}
+/* Resume and Hire Me */
+#hire, #resume
+{
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    background-color: white;
+    border-radius: 25px;
+    padding: 5px;
+    border-color: rgb(130, 241, 154);
+    text-decoration: none;
+    color: rgb(86, 150, 223);
 }
 
 /* services section css */
