@@ -1,13 +1,18 @@
 .body {
   margin: 0;
   background-color: rgb(204, 231, 209);
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* nav bar */
+.navbar
+{
+  background-color: #000000;
 }
 /* hero background image */
 .bgimage {
   height: 100vh;
   background: url("images/heroImage.jpg");
-  /* background-attachment: fixed; */
+  background-attachment: fixed;
   background-size: cover;
   position: relative;
 }
@@ -34,7 +39,6 @@
 /* Resume and Hire Me */
 #hire,
 #resume {
-  font-family: "Montserrat", sans-serif;
   text-align: center;
   background-color: white;
   border-radius: 25px;
@@ -45,7 +49,7 @@
 }
 /* skills */
 #skills {
-  background-color: rgb(209, 210, 215);
+  background-color: whitesmoke;
   border-radius: 35px;
   margin: 10px;
 }
