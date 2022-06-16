@@ -1,2 +1,2 @@
 ### Personal Portfolio Website
-- [Website Link](https://wakolivotes.github.io/portfolio/)
+- [Profile Link](https://wakolivotes.github.io/dev/)
