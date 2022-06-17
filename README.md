@@ -1,2 +1,2 @@
-## Personal Portfolio Website
-- [Website Link](https://danny-votez.github.io/portfolio/)
+### Personal Portfolio Website
+- [Profile Link](https://wakolivotes.github.io/dev/)
