@@ -11,7 +11,7 @@
 /* hero background image */
 .bgimage {
   height: 100vh;
-  background: url("images/heroImage.jpg");
+  background: url("images/portfolioImage2.jpg");
   background-attachment: fixed;
   background-size: cover;
   position: relative;
@@ -101,10 +101,11 @@
 }
 /* footer styling */
 #footer {
-  background-color: #baf0d1;
+  background-color: #021b0c;
   text-align: center;
   margin: 30px;
   border-radius: 30px  30px 0 0;
+  background: url('./images/portfolioImage1.jpg');
 }
 
 /* Professional and Learning Timeline Section */
