@@ -131,7 +131,7 @@
     display: block;
     position: relative;
 }
-.main-timeline .timeline-content:hover{ text-decoration: none; }
+.main-timeline .timeline-content { text-decoration: none; }
 .main-timeline .timeline-content:before{
     content: "";
     background: linear-gradient(to top left, transparent 50%, #952000 52%);
@@ -165,7 +165,7 @@
     left: -60px;
 }
 .main-timeline .title{
-    font-size: 20px;
+    font-size: 15px;
     font-weight: 200;
     letter-spacing: 1px;
     margin: 0 0 7px 0;
