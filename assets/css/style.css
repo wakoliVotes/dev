@@ -12,7 +12,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #d7d7d7 url("../img/heronew.png") top right no-repeat;
+  background: #d7d7d7 url("../img/mybg.jpg") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
