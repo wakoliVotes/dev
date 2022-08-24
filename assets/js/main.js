@@ -1,8 +1,5 @@
 /**
-* Template Name: Personal - v4.8.1
-* Template URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+POrtfolio
 */
 (function() {
   "use strict";

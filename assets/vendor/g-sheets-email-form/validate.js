@@ -1,12 +1,10 @@
 /**
-* PHP Email Form Validation - v3.4
-* URL: https://bootstrapmade.com/php-email-form/
-* Author: BootstrapMade.com
+* Email Form Validation - v3.4
 */
 (function () {
   "use strict";
 
-  let forms = document.querySelectorAll('.php-email-form');
+  // let forms = document.querySelectorAll('.php-email-form');
 
   forms.forEach( function(e) {
     e.addEventListener('submit', function(event) {
