@@ -997,7 +997,7 @@ section .container {
 # List 100 
 ----------------------------------------- */
 .list-content, .list-100 {
-  display: none;
+  display: noene;
 }
 /*--------------------------------------------------------------
 # Contact
