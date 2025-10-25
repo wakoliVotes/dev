@@ -556,6 +556,11 @@ section .container {
   z-index: 2;
   border: 6px solid rgba(255, 255, 255, 0.12);
 }
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
 
 .testimonials .testimonial-item h3 {
   font-size: 18px;
