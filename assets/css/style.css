@@ -558,7 +558,7 @@ section .container {
 }
 .img-fluid {
     max-width: 100%;
-    height: auto;
+    height: 250px;
     display: block;
 }
 
